@@ -1,3 +1,4 @@
+# Fiz o documento da Aula do dia 19, só abrir "Requisitos.docx"
 # EngSoftware
 Grupo da disciplina Engenharia de Software
 
